@@ -1,6 +1,6 @@
-# amartya04.github.io
+# animus04.github.io
 
-## This is my first hosted static website.
+## This is my second hosted static website.
 
 ## Leave me a feedback on **amartyapandey99@gmail.com**
 
